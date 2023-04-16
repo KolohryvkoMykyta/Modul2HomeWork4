@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Modul2HomeWork4;
+using Modul2HomeWork4.Models;
+
+Starter.Run();
